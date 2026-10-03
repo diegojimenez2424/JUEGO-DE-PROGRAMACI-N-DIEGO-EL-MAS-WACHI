@@ -2,14 +2,14 @@
 Creación de un juego en base de lo aprendido:
 
 # Fase1. Analisis 
-Documento donde analizamos los requerimientos funcionales y no funcionales del Video Juego. Al igual que distintos aspectos que se verán reflejados al ejecutarlo como tal.
+En esta etapa definimos los objetivos principales del proyecto mediante la identificación de los requerimientos funcionales como las acciones del jugador y los requerimientos no funcionales como el rendimiento y la experiencia visual. Asimismo, establecemos las dinámicas principales, los escenarios y las reglas básicas de nuestro videojuego de aventura.
 
 # Fase2. Diseño
-Diagrama de flujo, junto a clases padres eh hijas.
-Esto para luego usar la misma base para la creación del juego.
+Elaboramos el diagrama de flujo para representar la lógica de navegación del juego y diseñamos la estructura orientada a objetos a través de clases principales e hijas. Este diseño arquitectónico permite organizar los personajes, elementos y enemigos, además de reutilizar código para construir una base sólida antes de comenzar a programar.
 
 # Fase3. Desarrollo
-Cdigo en lenguaje deprogramacion en python, aqui veremos todo lo aprendido durante este ciclo escolar y como fue que lo implementamos en distintas partes de este juego, creado por nosotros.
+Llevamos a cabo la construcción lógica del proyecto programando en lenguaje Python. En esta fase aplicamos de manera práctica los conceptos aprendidos durante el 
+ciclo escolar, estructurando la lógica de movimiento, el control de puntos o vida, las condiciones de victoria y el flujo general de la partida.
 
 # Fase4. Implementación
-En esta parte veremos como es que se ve el codigo dentro del programa de VSCODE y como se ve al funcionar.
+Verificamos y ejecutamos la aplicación dentro del entorno de desarrollo Visual Studio Code. En esta etapa mostramos la integración final del código, evaluamos el comportamiento del programa en tiempo real y presentamos la jugabilidad del videojuego finalizado.
